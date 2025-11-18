@@ -1,0 +1,27 @@
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family:'Figtree', 
+}
+
+
+.background {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4d04e
+  padding: 20px;
+}
+.blog-card {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  max-width: 350px;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  padding: 20px;
+}
