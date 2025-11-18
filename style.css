@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #f4d04e
+  background-color: #f4d04e;
   padding: 20px;
 }
 .blog-card {
